@@ -1,0 +1,158 @@
+Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+Fungal infection,keep skin dry,consult doctor,apply antifungal creams,avoid sharing personal items
+Allergy,apply calamine,cover area with bandage,,use ice to compress itching
+GERD,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise
+Chronic cholestasis,avoid alcohol,take medications regularly,consult doctor,maintain healthy diet
+Drug Reaction,stop irritation,consult nearest hospital,stop taking drug,follow up
+Peptic ulcer disease,eat small meals,avoid spicy food,reduce stress,avoid alcohol and smoking
+AIDS,practice safe sex,avoid sharing needles,monitor health regularly,seek medical advice
+Diabetes,monitor blood sugar regularly,eat a balanced diet,exercise regularly,take prescribed medications
+Gastroenteritis,stay hydrated,avoid dairy products,consult doctor,practice good hygiene
+Bronchial Asthma,avoid triggers,take inhaler regularly,consult doctor,maintain healthy weight
+Hypertension,reduce salt intake,exercise regularly,avoid alcohol,take prescribed medications
+Migraine,avoid stress,maintain regular sleep schedule,limit caffeine,consult doctor
+Cervical spondylosis,exercise regularly,maintain proper posture,use a firm pillow,consult physiotherapist
+Paralysis (brain hemorrhage),follow medical advice,do physiotherapy regularly,take prescribed medications,maintain healthy diet
+Jaundice,avoid alcohol,maintain a healthy diet,consult doctor,stay hydrated
+Malaria,Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos out
+Chicken pox,keep rash covered,stay hydrated,take prescribed medication,avoid scratching
+Dengue,Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos out
+Typhoid,drink clean water,eat properly cooked food,avoid street food,consult doctor
+Hepatitis A,avoid alcohol,eat a healthy diet,consult doctor,wash hands regularly
+Hepatitis B,practice safe sex,avoid sharing needles,consult doctor,take prescribed medications
+Hepatitis C,practice safe sex,avoid sharing needles,consult doctor,take prescribed medications
+Hepatitis D,consult doctor,avoid alcohol,monitor liver function,take prescribed medications
+Hepatitis E,avoid unclean water,drink boiled water,eat well-cooked food,consult doctor
+Alcoholic hepatitis,avoid alcohol,take prescribed medications,consult doctor,maintain a healthy diet
+Tuberculosis,complete course of antibiotics,avoid public places,stay hydrated,consult doctor
+Common Cold,stay hydrated,get enough rest,avoid close contact with infected people,consult doctor if symptoms worsen
+Pneumonia,consult doctor,stay hydrated,take prescribed medications,get rest
+Dimorphic hemorrhoids(piles),avoid constipation,consult doctor,take prescribed medications,eat fiber-rich food
+Heart attack,take prescribed medications,reduce stress,maintain healthy weight,exercise regularly
+Varicose veins,elevate legs regularly,wear compression stockings,exercise regularly,avoid long standing periods
+Hypothyroidism,reduce stress,exercise,eat healthy,get proper sleep
+Hyperthyroidism,consult doctor,take prescribed medications,avoid stress,eat healthy
+Osteoarthritis,exercise regularly,maintain healthy weight,consult doctor,manage pain with prescribed medications
+Arthritis,exercise regularly,maintain healthy weight,consult doctor,manage pain with prescribed medications
+(vertigo) Paroymsal  Positional Vertigo,avoid sudden movements,consult doctor,perform balance exercises,take prescribed medications
+Acne,avoid touching face,clean skin regularly,use prescribed medications,avoid oily products
+Urinary tract infection,drink plenty of water,consult doctor,take prescribed medications,avoid caffeine
+Psoriasis,wash hands with warm soapy water,stop bleeding using pressure,consult doctor,salt baths
+Impetigo,keep skin clean,avoid scratching,consult doctor,apply prescribed ointments
+Asthma,avoid triggers,take inhaler regularly,consult doctor,maintain healthy weight
+Diabetes,monitor blood sugar regularly,eat a balanced diet,exercise regularly,take prescribed medications
+Hepatitis,avoid alcohol,eat a healthy diet,consult doctor,wash hands regularly
+Cough,drink warm fluids,take cough syrup,avoid smoke,consult doctor if symptoms persist
+Chronic_bronchitis,avoid smoking,take prescribed medications,consult doctor,exercise regularly
+Influenza,get vaccinated,stay hydrated,avoid close contact with infected people,consult doctor if symptoms worsen
+Bronchitis,avoid smoking,take prescribed medications,consult doctor,stay hydrated
+Cholera,drink clean water,eat well-cooked food,consult doctor,take oral rehydration solution
+Typhus,consult doctor,take prescribed antibiotics,avoid sharing personal items,maintain hygiene
+Chickenpox,keep rash covered,stay hydrated,take prescribed medication,avoid scratching
+Scarlet_fever,consult doctor,take prescribed antibiotics,stay hydrated,rest
+HIV,practice safe sex,avoid sharing needles,monitor health regularly,seek medical advice
+Mumps,consult doctor,stay hydrated,take prescribed medication,avoid close contact
+Hepatitis_A,avoid alcohol,eat a healthy diet,consult doctor,wash hands regularly
+Hepatitis_B,practice safe sex,avoid sharing needles,consult doctor,take prescribed medications
+Hepatitis_C,practice safe sex,avoid sharing needles,consult doctor,take prescribed medications
+Leprosy,consult doctor,take prescribed antibiotics,maintain hygiene,avoid contact with sores
+Rheumatic_fever,complete course of antibiotics,consult doctor,maintain healthy lifestyle,take prescribed medications
+Zika_virus,avoid mosquito bites,consult doctor,stay hydrated,take prescribed medications
+West_Nile_virus,avoid mosquito bites,consult doctor,stay hydrated,take prescribed medications
+Meningitis,consult doctor,stay hydrated,take prescribed medications,maintain good hygiene
+Rabies,consult doctor,receive vaccination,avoid animal bites,clean wound thoroughly
+Herpes,avoid close contact with infected individuals,apply prescribed creams,consult doctor,avoid stress
+Shingles,consult doctor,avoid scratching,apply prescribed medication,stay hydrated
+Lupus,consult doctor,take prescribed medications,reduce stress,maintain a healthy diet
+Celiac_disease,avoid gluten,eat a balanced diet,consult dietitian,monitor health regularly
+Osteoarthritis,exercise regularly,maintain healthy weight,consult doctor,manage pain with prescribed medications
+Rheumatoid_arthritis,exercise regularly,consult doctor,take prescribed medications,maintain healthy diet
+Multiple_sclerosis,consult doctor,take prescribed medications,maintain healthy lifestyle,avoid stress
+Parkinson's_disease,take prescribed medications,exercise regularly,consult doctor,avoid stress
+Alzheimer's_disease,consult doctor,maintain mental activity,exercise regularly,follow prescribed treatment plan
+Ebola,consult doctor,take prescribed medications,avoid contact with infected fluids,practice good hygiene
+Hantavirus,avoid contact with rodents,consult doctor,stay hydrated,take prescribed medications
+Laryngitis,rest voice,drink warm fluids,avoid smoking,consult doctor if symptoms persist
+Tetanus,get vaccinated,keep wounds clean,consult doctor if injured,avoid contact with dirt
+Diphtheria,get vaccinated,consult doctor,take prescribed antibiotics,maintain good hygiene
+Cystitis,drink plenty of water,consult doctor,take prescribed antibiotics,avoid caffeine
+Urinary_tract_infection,drink plenty of water,consult doctor,take prescribed medications,avoid caffeine
+Whooping_cough,get vaccinated,avoid close contact with infected people,take prescribed antibiotics,stay hydrated
+Rubella,get vaccinated,avoid close contact with infected people,take prescribed medications,consult doctor
+Sinusitis,consult doctor,take prescribed medications,drink plenty of fluids,avoid allergens
+Gout,avoid alcohol,maintain healthy weight,take prescribed medications,eat a balanced diet
+Hypertension,reduce salt intake,exercise regularly,avoid alcohol,take prescribed medications
+Anemia,eat iron-rich foods,take iron supplements,consult doctor,get enough rest
+Panic_attack,practice deep breathing,consult doctor,avoid caffeine,reduce stress
+Chronic_fatigue_syndrome,get enough rest,consult doctor,reduce stress,maintain healthy diet
+Epilepsy,consult doctor,take prescribed medications,avoid triggers,maintain healthy lifestyle
+Hodgkin's_lymphoma,consult doctor,take prescribed medications,stay hydrated,rest
+Leukemia,consult doctor,take prescribed medications,maintain healthy diet,stay hydrated
+Disease,consult doctor,maintain healthy lifestyle,stay hydrated,take prescribed medications
+Cystic_fibrosis,consult doctor,take prescribed medications,maintain healthy diet,exercise regularly
+Adenovirus,consult doctor,take prescribed medications,stay hydrated,practice good hygiene
+Sickle_cell_disease,consult doctor,take prescribed medications,maintain healthy diet,avoid stress
+Gastroesophageal_reflux_disease(GERD),avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise
+Bipolar_disorder,consult doctor,take prescribed medications,manage stress,maintain a healthy lifestyle
+Osteoporosis,exercise regularly,eat calcium-rich foods,take prescribed medications,consult doctor
+Schizophrenia,consult doctor,take prescribed medications,manage stress,maintain a healthy lifestyle
+Acid_reflux,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,take prescribed medications
+Hernia,avoid heavy lifting,consult doctor,follow prescribed treatment plan,maintain healthy weight
+Irritable_bowel_syndrome(IBS),eat a balanced diet,consult doctor,manage stress,take prescribed medications
+Anxiety_disorder,consult doctor,manage stress,practice relaxation techniques,take prescribed medications
+Chronic_kidney_disease,consult doctor,manage blood pressure,take prescribed medications,maintain healthy diet
+Lung_cancer,consult doctor,avoid smoking,maintain a healthy diet,take prescribed medications
+Coronary_artery_disease,consult doctor,exercise regularly,avoid smoking,take prescribed medications
+Cirrhosis,avoid alcohol,consult doctor,take prescribed medications,maintain a healthy diet
+Gallstones,avoid fatty food,consult doctor,take prescribed medications,maintain healthy diet
+Chronic_pain,consult doctor,manage stress,exercise regularly,take prescribed medications
+Liver_fibrosis,avoid alcohol,consult doctor,take prescribed medications,maintain healthy diet
+Pelvic_inflammatory_disease(abdominal_pain),consult doctor,take prescribed antibiotics,stay hydrated,rest
+Fibromyalgia,consult doctor,take prescribed medications,manage stress,exercise regularly
+COPD,avoid smoking,take prescribed medications,exercise regularly,consult doctor
+Parkinson's,consult doctor,take prescribed medications,exercise regularly,avoid stress
+Cushing's_syndrome,consult doctor,take prescribed medications,maintain healthy diet,manage stress
+Bacterial_vaginosis,consult doctor,take prescribed antibiotics,practice good hygiene,avoid douching
+Chronic_lymphocytic_leukemia,consult doctor,take prescribed medications,maintain healthy diet,stay hydrated
+Endometriosis,consult doctor,take prescribed medications,maintain healthy diet,manage stress
+Lyme_disease,consult doctor,take prescribed antibiotics,avoid tick bites,practice good hygiene
+Alopecia,consult doctor,take prescribed medications,avoid stress,maintain healthy diet
+Plague,consult doctor,take prescribed antibiotics,avoid contact with infected individuals,practice good hygiene
+Rickets,ensure adequate vitamin D,consult doctor,take prescribed supplements,maintain healthy diet
+Polio,consult doctor,get vaccinated,maintain hygiene,avoid contact with infected individuals
+Chlamydia,consult doctor,take prescribed antibiotics,avoid sexual contact until cleared,inform sexual partners
+Scabies,consult doctor,apply prescribed creams,avoid close contact,maintain good hygiene
+Tinnitus,avoid loud noises,consult doctor,take prescribed medications,manage stress
+Heart_failure,consult doctor,take prescribed medications,maintain healthy weight,avoid smoking
+Strep_throat,consult doctor,take prescribed antibiotics,stay hydrated,avoid close contact
+Anorexia,consult doctor,follow prescribed treatment plan,maintain healthy diet,avoid stress
+Alzheimer's,consult doctor,maintain mental activity,exercise regularly,follow prescribed treatment plan
+Sepsis,consult doctor,take prescribed medications,maintain good hygiene,stay hydrated
+Tonsillitis,consult doctor,take prescribed antibiotics,stay hydrated,rest
+Pancreatitis,avoid alcohol,consult doctor,take prescribed medications,eat a healthy diet
+Depression,consult doctor,take prescribed medications,maintain a healthy lifestyle,manage stress
+Hyperlipidemia,consult doctor,take prescribed medications,maintain healthy diet,exercise regularly
+Measles,get vaccinated,consult doctor,take prescribed medications,avoid close contact
+Liver_cirrhosis,avoid alcohol,consult doctor,take prescribed medications,maintain healthy diet
+Skin_cancer,consult doctor,avoid excessive sun exposure,maintain healthy diet,get regular checkups
+Fungal_infection,keep skin dry,consult doctor,apply antifungal creams,avoid sharing personal items
+Chronic_disease,consult doctor,maintain healthy lifestyle,stay hydrated,take prescribed medications
+Chronic_migraine,consult doctor,take prescribed medications,maintain regular sleep schedule,avoid stress
+Croup,consult doctor,take prescribed medications,keep airways clear,stay hydrated
+Acute_bronchitis,avoid smoking,take prescribed medications,consult doctor,stay hydrated
+Hyperhidrosis,consult doctor,take prescribed medications,maintain good hygiene,wear breathable clothing
+Bell's_palsy,consult doctor,take prescribed medications,exercise face muscles,maintain healthy diet
+Fibroids,consult doctor,take prescribed medications,maintain healthy diet,exercise regularly
+Eczema,consult doctor,apply prescribed creams,avoid allergens,maintain good skin hygiene
+Addison's_disease,consult doctor,take prescribed medications,maintain healthy diet,avoid stress
+Astigmatism,consult doctor,wear prescribed glasses,maintain regular eye checkups,avoid strain on eyes
+Gingivitis,consult dentist,brush regularly,floss daily,avoid smoking
+Liver_disease,consult doctor,avoid alcohol,take prescribed medications,maintain healthy diet
+Vertigo,consult doctor,take prescribed medications,avoid sudden head movements,stay hydrated
+Chikungunya,avoid mosquito bites,consult doctor,stay hydrated,take prescribed medications
+Rash,consult doctor,apply prescribed creams,avoid scratching,maintain healthy skin hygiene
+Pneumothorax,consult doctor,avoid heavy lifting,rest,follow prescribed treatment plan
+Diarrhea,drink plenty of fluids,avoid dairy products,consult doctor,take prescribed medications
+Hemorrhoids,avoid constipation,consult doctor,take prescribed medications,eat fiber-rich food
+Diabetic_neuropathy,monitor blood sugar,exercise regularly,take prescribed medications,maintain healthy diet
+Ulcerative_colitis,consult doctor,take prescribed medications,avoid stress,maintain healthy diet
